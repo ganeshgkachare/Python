@@ -1,9 +1,8 @@
 # # Defining the dict with values
-#     # dict does not stores the value by index
+# #dict does not stores the value by index
 
 # student=["abc","HSC",88]
 # print(student[1])
-
 
 # person = {
 #     "firstName":"Ganesh",
