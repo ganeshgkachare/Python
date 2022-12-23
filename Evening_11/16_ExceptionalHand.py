@@ -2,7 +2,7 @@
 #  16.11.2022 04.00PM
 #################################################
 #  TOPICS TO BE COVERED
-# 👉 USER DEFINED EXCEPTION  IN PYTHON
+# USER DEFINED EXCEPTION  IN PYTHON
 # https://docs.python.org/3/library/exceptions.html#exception-hierarchy
 #################################################
 
