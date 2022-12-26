@@ -2,7 +2,7 @@
 #  12.10.2022
 #################################################
 #  TOPICS TO BE COVERED 
-# 👉 CONDITIONAL IN PYTHON
+# CONDITIONAL IN PYTHON
 #################################################
 
 
