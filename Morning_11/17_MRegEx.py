@@ -126,8 +126,4 @@ e20 = "The meeting will start at 9am and will end at 8pm . please join at 8am"
 #[9am 8am 9pm]
 
 
-#try handling 
 
-#module
-
-#7:30 pm -- 20
