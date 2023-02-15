@@ -14,4 +14,4 @@ class st:
 
 a=st("dd",2)
 print(a.a)
-a
+print(a)
